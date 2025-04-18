@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+langchain_google_genai
+langchain_community
+langchain-core
+bs4
+faiss-cpu
+transformers
+sentence-transformers
